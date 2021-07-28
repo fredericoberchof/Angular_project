@@ -19,6 +19,16 @@
       "name": "Lapis Preto Básico",
       "price": "1.50",
       "id": 4
+    },
+    {
+      "name": "Óculos",
+      "price": "79.90",
+      "id": 5
+    },
+    {
+      "name": "teste ",
+      "price": "44",
+      "id": 6
     }
   ]
 }
